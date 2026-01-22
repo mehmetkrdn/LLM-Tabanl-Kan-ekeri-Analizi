@@ -130,7 +130,7 @@ Uygulama Streamlit tabanlıdır ve tek dosya üzerinden çalışır:
 streamlit run app.py
 
 # Kurulum
-pip install -r requirements.txt
+pip install -r requirements.txt / !pip install -r requirements.txt
 
 # Gerekli başlıca kütüphaneler:
 torch
