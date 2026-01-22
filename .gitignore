@@ -1,0 +1,9 @@
+data/
+assets/
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.zip
+*.rar
+*.7z
